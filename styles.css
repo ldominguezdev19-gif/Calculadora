@@ -35,16 +35,19 @@ body{
     color: #ffffff;
     background-color: #7b5cff;
     border: none;
+    padding: 8px;
 }
 
 .igual{
     background-color: #00d4aa;
     color: #ffffff;
     border: none;
+    padding: 8px;
 }
 
 .borrar, .limpiar{
     color: #ffffff;
     background-color: #ff5c7a;
     border: none;
+    padding: 8px;
 }
