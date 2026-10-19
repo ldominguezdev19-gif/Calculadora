@@ -41,6 +41,16 @@ body{
     font-size: 18px;
 }
 
+.botones button:hover{
+    background-color: #004f78;
+}
+
+.punto{
+    background: #262640;
+    color: #ffffff;
+}
+
+
 .numero{
     background: #262640;
     color: #ffffff;
@@ -62,4 +72,12 @@ body{
     color: #ffffff;
     background-color: #ff5c7a;
 
+}
+
+#cero{
+    grid-column: span 2;
+}
+
+#igual{
+    grid-row: span 2;
 }
