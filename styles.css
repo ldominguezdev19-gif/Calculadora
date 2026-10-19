@@ -16,6 +16,7 @@ body{
     text-align: right;
     font-size: 21px;
     padding: 18px;
+    margin-bottom: 14px;
 }
 
 .botones{
@@ -24,30 +25,32 @@ body{
     gap: 4px;
 }
 
-.numero{
-    background: #262640;
+.botones button{
     border: none;
     padding: 8px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.numero{
+    background: #262640;
     color: #ffffff;
 }
 
 .operacion{
     color: #ffffff;
     background-color: #7b5cff;
-    border: none;
-    padding: 8px;
+
 }
 
 .igual{
     background-color: #00d4aa;
     color: #ffffff;
-    border: none;
-    padding: 8px;
+
 }
 
 .borrar, .limpiar{
     color: #ffffff;
     background-color: #ff5c7a;
-    border: none;
-    padding: 8px;
+
 }
