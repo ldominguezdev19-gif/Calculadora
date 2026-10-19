@@ -32,5 +32,19 @@ body{
 }
 
 .operacion{
-    
+    color: #ffffff;
+    background-color: #7b5cff;
+    border: none;
+}
+
+.igual{
+    background-color: #00d4aa;
+    color: #ffffff;
+    border: none;
+}
+
+.borrar, .limpiar{
+    color: #ffffff;
+    background-color: #ff5c7a;
+    border: none;
 }
